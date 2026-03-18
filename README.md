@@ -1,8 +1,8 @@
-## Hello! im Lelis
+## Hello! im Ramos
 
 Passionate developer with a love for technology and innovation, focused on Linux, Python, DevOps, and cloud computing.
 
-I’m Mileni Lelis, constantly driven by the challenge of solving complex problems with logical and intelligent solutions. Here, you’ll find my projects and studies, with an emphasis on automation using Bash and Python, as well as cloud computing practices on AWS (EC2, VPC, ELB, Auto Scaling).
+I’m Mileni Ramos, constantly driven by the challenge of solving complex problems with logical and intelligent solutions. Here, you’ll find my projects and studies, with an emphasis on automation using Bash and Python, as well as cloud computing practices on AWS (EC2, VPC, ELB, Auto Scaling).
 
 Let’s talk about how I can help your project take off.
 
