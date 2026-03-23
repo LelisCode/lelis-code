@@ -4,18 +4,6 @@ Passionate developer with a love for technology and innovation, focused on Linux
 
 I’m Mileni Ramos, constantly driven by the challenge of solving complex problems with logical and intelligent solutions. Here, you’ll find my projects and studies, with an emphasis on automation using Bash and Python, as well as cloud computing practices on AWS (EC2, VPC, ELB, Auto Scaling).
 
-Let’s talk about how I can help your project take off.
-
-<Div>
-  <a href="https://github.com/milenilelis">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=lelis-devops&show_icons=true&count_private=true" />
-  </a>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelis-devops&layout=compact&langs_count=16&theme=" />
-</Div>
-
-##
-
-<div style="display: inline_block">
 
 
 
